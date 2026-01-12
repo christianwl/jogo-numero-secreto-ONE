@@ -155,6 +155,12 @@ footer{
     z-index: 1;
 }
 
+footer span{
+    display: flex;
+    justify-content: center;
+    padding-block: 12px;
+}
+
 footer ul {
     display: flex;
     justify-content: space-around;

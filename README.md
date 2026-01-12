@@ -27,7 +27,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [baixar o arquivo zip](https://github.com/Christian-Rui/jogo-numero-secreto-ONE/archive/refs/heads/main.zip).
+Você pode [baixar o arquivo zip](https://github.com/christianwl/jogo-numero-secreto-ONE/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
@@ -39,7 +39,10 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code para acessa-lo
 
 Para  abrir, basta clicar duas vezes no arquivo **index.html** que ele será aberto no seu navegador, e você poderá testar suas funcionalidades
 
-# Time
+## Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113655013?v=4" width=115><br><sub>Christian Rui</sub>](https://github.com/Christian-Rui)
-| :---: |
+<div>
+  <a href="https://github.com/christianwl">
+    <img src="https://contrib.rocks/image?repo=christianwl/jogo-numero-secreto-ONE" alt="foto do(s) autor(es)"/>
+  </a>
+</div>

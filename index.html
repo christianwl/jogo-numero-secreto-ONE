@@ -10,6 +10,13 @@
       href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap"
       rel="stylesheet"
     />
+
+    <meta
+      name="description"
+      content="Um divertido jogo desenvolvido durante o curso de Lógica de Programação da Alura, oferecido pelo ONE. O jogador tenta adivinhar um número secreto entre 1 e 10"
+    />
+    <meta name="author" content="christianwl" />
+
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="style.css" />
     <title>JS Game</title>
@@ -33,9 +40,19 @@
             <h1></h1>
             <p class="texto__paragrafo"></p>
           </div>
-          <input id="input" type="number" min="1" max="10" class="container__input" />
+          <input
+            id="input"
+            type="number"
+            min="1"
+            max="10"
+            class="container__input"
+          />
           <div class="chute container__botoes">
-            <button id="chute" onclick="verificarChute()" class="container__botao">
+            <button
+              id="chute"
+              onclick="verificarChute()"
+              class="container__botao"
+            >
               Chutar
             </button>
             <button
@@ -58,15 +75,25 @@
     <footer>
       <ul>
         <li>
-          <a href="https://github.com/Christian-Rui" target="_blank"><img src="./img/social_github.webp" alt="" /></a>
+          <a href="https://github.com/christianwl" target="_blank"
+            ><img src="./img/social_github.webp" alt="Icone do GitHub"
+          /></a>
         </li>
         <li>
-          <a href="https://instagram.com/bearly_rui" target="_blank"><img src="./img/social_instagram.webp" alt="" /></a>
+          <a href="https://instagram.com/bearly_rui" target="_blank"
+            ><img src="./img/social_instagram.webp" alt="Icone do Instagram" />
+          </a>
         </li>
         <li>
-          <a href="https://linkedin.com/in/christian-neves-dev" target="_blank"><img src="./img/social_linkedin.webp" alt="" /></a>
+          <a
+            href="https://www.linkedin.com/in/christianwilliam-dev/"
+            target="_blank"
+          >
+            <img src="./img/social_linkedin.webp" alt="Icone do LinkedIn" />
+          </a>
         </li>
       </ul>
+      <span>&copy; 2025 christianwl</span>
     </footer>
 
     <script src="app.js" defer></script>
