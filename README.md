@@ -8,7 +8,7 @@ Um jogo simples para descobrir o número secreto, feito durante o curso de lógi
 
 Nesse projeto, você deve tentar descobrir qual é número secreto, sendo ele, um número de 1 a 10. Na página, existe um input onde você pode inserir o valor para verificar se acertou o número ou se o número digita é menor ou maior que o número secreto. Ao acertar o número secreto, o programa irá te informar em quantas tentativas você descobriu. O programa possui leitura por voz de alguns textos que aparecem na tela. 
 
-![](./img/JogoNumeroSecretoCaptura.png)
+![](./readme-content/JogoNumeroSecretoCaptura.png)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
